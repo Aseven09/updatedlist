@@ -23,6 +23,22 @@
 #EXTGRP: group-title="TENNIS" group-logo="https://i.ibb.co/ynMKPMw2/logo-tennis.png"
 #EXTGRP: group-title="UFC" group-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png"
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial" group-title="DAZN Mundial", DAZN Mundial 1
+http://192.168.1.199:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial" group-title="DAZN Mundial", DAZN Mundial 1
+http://192.168.1.199:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Mundial%202.png" tvg-id="DAZN Mundial 2" group-title="DAZN Mundial", DAZN Mundial 2
+http://192.168.1.199:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Mundial%202.png" tvg-id="DAZN Mundial 2" group-title="DAZN Mundial", DAZN Mundial 2
+http://192.168.1.199:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Mundial%203.png" tvg-id="DAZN Mundial 3" group-title="DAZN Mundial", DAZN Mundial 3
+http://192.168.1.199:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Mundial%203.png" tvg-id="DAZN Mundial 3" group-title="DAZN Mundial", DAZN Mundial 3
+http://192.168.1.199:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Mundial%204.png" tvg-id="DAZN Mundial 4" group-title="DAZN Mundial", DAZN Mundial 4
+http://192.168.1.199:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Mundial%204.png" tvg-id="DAZN Mundial 4" group-title="DAZN Mundial", DAZN Mundial 4
+http://192.168.1.199:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
 http://192.168.1.199:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) 74cf --> NEW ERA V
@@ -117,6 +133,18 @@ http://192.168.1.199:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b76
 http://192.168.1.199:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="" group-title="EVENTOS", DAZN EVENTOS 2 0267 --> NEW ERA
 http://192.168.1.199:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" group-title="FORMULA 1 720p", DAZN F1
+http://192.168.1.199:6878/ace/getstream?id=20086a76248efe8d5230c15d41c69bae8fa6381c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" group-title="FORMULA 1 720p", DAZN F1
+http://192.168.1.199:6878/ace/getstream?id=f16d68fa5ff64f3894a45062ca28e4e66f142c6a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" group-title="FORMULA 1 1080p", DAZN F1
+http://192.168.1.199:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" group-title="FORMULA 1 1080p", DAZN F1
+http://192.168.1.199:6878/ace/getstream?id=f8b0eae8fda973cf426311541d1668aa592f0a8c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" group-title="FORMULA 1 1080p", DAZN F1
+http://192.168.1.199:6878/ace/getstream?id=0a81ba020d498aca1248e0591d8ffab99eb80bd4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1" group-title="FORMULA 1 1080p", DAZN F1
+http://192.168.1.199:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 4K f66d --> NEW ERA
 http://192.168.1.199:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD bb29 --> NEW ERA
